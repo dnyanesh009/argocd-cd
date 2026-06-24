@@ -1,1 +1,1 @@
-# argocd-cd1
+# argocd-cd
