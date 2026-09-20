@@ -5,6 +5,7 @@ metadata:
   name: frontend
 spec:
   replicas: 10
+  
   selector:
     matchLabels:
         app: guestbook
